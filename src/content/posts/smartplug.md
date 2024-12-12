@@ -1,5 +1,4 @@
 ---
-
 title: '用Siri来控制Windows电脑开机关机吧'
 published: 2024-02-26
 description: '用siri来控制windows电脑开机和关机'
