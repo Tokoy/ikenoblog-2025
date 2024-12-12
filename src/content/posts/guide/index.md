@@ -2,7 +2,7 @@
 title: Simple Guides for Fuwari
 published: 2022-04-01
 description: "How to use this blog template."
-image: "./image.jpeg"
+image: "./cover.jpeg"
 tags: ["Fuwari", "Blogging", "Customization"]
 category: Examples
 draft: false
