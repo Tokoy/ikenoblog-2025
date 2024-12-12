@@ -4,7 +4,7 @@ title: '如何使用Clickhouse的索引'
 published: 2023-10-18
 description: '用clickhouse的索引来提高检索效率'
 author: 'ike'
-image: 'https://img.ikeno.top/2023/IMG_6615.JPG'
+image: 'https://img.ikeno.top/2023/IMG_6615.JPG.JPG'
 tags: ["技术", "运维", "clickhouse", "index"]
 category: clickhouse
 draft: false
