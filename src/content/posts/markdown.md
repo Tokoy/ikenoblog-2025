@@ -1,6 +1,6 @@
 ---
 title: Markdown Example
-published: 2023-10-01
+published: 2022-10-01
 description: A simple example of a Markdown blog post.
 tags: [Markdown, Blogging, Demo]
 category: Examples
@@ -82,9 +82,9 @@ Now a nested list:
     this algorithm:
 
         find wooden spoon
-        uncover pot
+        unimage pot
         stir
-        cover pot
+        image pot
         balance wooden spoon precariously on pot handle
         wait 10 minutes
         goto first step (or shut off burner when done)
